@@ -2,6 +2,7 @@ import React, { Component }from "react";
 import API from "../../utils/API";
 import Card from "../Card";
 import Article from "../Article";
+import "./Saved.css";
 
 class Saved extends Component {
     // sets the initial values
