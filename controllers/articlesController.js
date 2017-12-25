@@ -1,4 +1,4 @@
-const db = require("../models/article");
+const db = require("../models");
 
 // defining methods for the articlesController
 module.exports = {
