@@ -16,7 +16,7 @@ const SearchForm = props => (
                 <label htmlFor="end_year">End Year</label>
             </div>
         </div>
-        <button type="submit" className="waves-effect waves-light btn btn-large" onClick={props.handleFormSubmit}><i className="material-icons left tiny">clear_all</i> Search</button>
+        <button type="submit" className="waves-effect waves-light btn btn-large" onClick={props.handleFormSubmit}><i className="material-icons left tiny">search</i> Search</button>
     </form>
 )
 

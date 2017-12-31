@@ -6,6 +6,10 @@
     color: black;
 }
 
-.card-action a {
-    color: rgb(78,163,154);
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+    color: rgb(222,117,118);
+}
+
+.article-card {
+    background-color: white;
 }
