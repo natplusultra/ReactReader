@@ -4,8 +4,8 @@ The ReactReader is a news reader application developed with the MERN stack that 
 ### Technologies Used
 JavaScript, React, jQuery, Node, Express, Mongoose, HTML, CSS, Materialize
 
-![ReactReader Screen Shot 1]() 
+![ReactReader Screen Shot 1](https://github.com/natplusultra/ReactReader/blob/master/client/public/images/ReactReader1.png) 
 
-![ReactReader Screen Shot 2]() 
+![ReactReader Screen Shot 2](https://github.com/natplusultra/ReactReader/blob/master/client/public/images/ReactReader2.png) 
 
-![ReactReader Screen Shot 3]() 
+![ReactReader Screen Shot 3](https://github.com/natplusultra/ReactReader/blob/master/client/public/images/ReactReader3.png) 
