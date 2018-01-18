@@ -1,5 +1,7 @@
 # ReactReader
+
 https://nyt-reactreader.herokuapp.com/
+
 The ReactReader is a news reader application developed with the MERN stack that allows you to search the NYT and save your favorite articles. The app uses React components, helper/util functions, and the React mounting lifecycle to query and display articles on the front end; Express, Node, and MongoDB to save articles on the back end.
 
 ### Technologies Used
